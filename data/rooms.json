@@ -1,0 +1,53 @@
+[
+  {
+    "name": "Starting",
+    "description": "The only guaranteed safe room of the floor.",
+    "mapIcon": "Regular room with a small dot in the centre"
+  },
+  {
+    "name": "Regular",
+    "description": "Your basic dungeon floor room, filled with monsters, chests, and death.",
+    "mapIcon": "tbd"
+  },
+  {
+    "name": "Huginn's Shop",
+    "description": "Huginn is eveyrone's favourite bird-come-diety, offering various consumables and items in exchange for coins.  Every purchase adds the item's coin value to your Muninn Gratitude total.",
+    "mapIcon": "Medieval store sign"
+  },
+  {
+    "name": "Muninn's Armoury",
+    "description": "Huginn's metlahead friend, they offer weapons and weapon accessories in exchange for coins.  Every purchase adds the item's coin value to your Huginn Loyalty Card total.",
+    "mapIcon": "Anvil"
+  },
+  {
+    "name": "Bank",
+    "description": "Allows you to deposit money to a common fund that can be withdrawn from on future floors or runs.",
+    "mapIcon": "Scales"
+  },
+  {
+    "name": "Library",
+    "description": "A locked room containing a spell or ability.",
+    "mapIcon": "Open book with sparkles"
+  },
+  {
+    "name": "Boss",
+    "description": "This is where the current level's boss is; only 1 of these spawn per floor.  Kill the boss to proceed to the next level!",
+    "mapIcon": "A skull without a lower-mandible"
+  },
+  {
+    "name": "Blessing",
+    "description": "A room with a selection of 4 free items, but you can only take 1.",
+    "mapIcon": "3 4-pointed stars"
+  },
+  {
+    "name": "Challenge",
+    "description": "Pull the lever, kill the enemies, claim your reward.  Can be completed 3 times.",
+    "mapIcon": "Crossed swords"
+  },
+  {
+    "name": "Golden Chest",
+    "description": "A room containing a locked golden chest with a powerful item inside.  Sometimes these rooms will contain a damage-dealing passage you can use to access a second chest.",
+    "mapIcon": "A golden chest"
+
+  }
+]

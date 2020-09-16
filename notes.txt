@@ -1,0 +1,20 @@
+Floor tpyes:
+Barren - Very few drops
+Castle - 
+Space - Jump time is doubled.  This also affects enemies.
+Midas - Enemies drop gold much more frequently
+Dark - appears to limit the floor to only Bat and Spider type enemies
+Glass - hints of Glass Cannon?  Enemies may do high damage but be easy to beat
+Infested - 
+Explosive - Enemies drop skulls on death, walking over skulls causes them to explode (does not harm player)
+
+Boss modifiers:
+Twin - Two of them!
+Dwarf - Boss is Small
+Giant - Boss is Big
+Hidden - Boss is invis
+Champion - You don't want this
+Cloned - Maybe Twin doesn't exist and it's just Cloned
+Vengeful - No idea
+Crazed - Beserker?
+Burning - Ouch!

@@ -1,0 +1,25 @@
+[
+  {
+    "name": "Draugr",
+    "description": "",
+    "floor": "",
+    "attacks": [
+      {
+        "name": "Energy Blast",
+        "description": "4 slow moving energy blasts that travel forward."
+      },
+      {
+        "name": "Energy Lance",
+        "description": "8 fast moving energy blasts that travel forward slightly tracking the player, spawning on half-beats."
+      },
+      {
+        "name": "Spawn Skulls",
+        "description": "Spawns 3 homing skulls that can be destroyed with weapons.  Draugr lays down his axe to cast this."
+      },
+      {
+        "name": "Demi Flare",
+        "description": "Attack the right, left, right, and left side of the screen on the 1st, 3rd, 5th, and 7th beat.  Dodgeable."
+      }
+    ]
+  }
+]

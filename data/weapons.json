@@ -1,0 +1,90 @@
+[ 
+  {
+    "name": "Grenade Launcher",
+    "description": "A grenade launcher with a drum mag, its shells explode and cause splash damage on contact with enemies or hard surfaces.",
+    "fireMode": "Semi-automatic",
+    "magazineSize": "8",
+    "firesOn": "Full beat",
+    "reloadType": "Magazine",
+    "reloadLength": "2 beats",
+    "image": "",
+    "notes": ""
+  },
+  {
+    "name": "Handgun",
+    "description": "A basic handgun.",
+    "fireMode": "Semi-automatic",
+    "magazineSize": "8",
+    "firesOn": "1/2 beat",
+    "reloadType": "Magazine",
+    "reloadLength": "1 beat",
+    "image": "",
+    "notes": ""
+  },
+  {
+    "name": "Pump Shotgun",
+    "description": "A slow firing shotgun.  Must be pumped after firing every shot.",
+    "fireMode": "Semi-automatic",
+    "magazineSize": "6",
+    "firesOn": "Full beat",
+    "reloadType": "Single round",
+    "reloadLength": "1/2 beat",
+    "image": "",
+    "notes": "The pump shotgun must be pumped after each shot, which can be done on half beats, leaving an effective fire rate of every full beat."
+  },
+  {
+    "name": "Gattling Gun",
+    "description": "A fully automatic minigun that revs up the longer you hold fire.",
+    "fireMode": "Automatic",
+    "magazineSize": "30",
+    "firesOn": "Full beat",
+    "reloadType": "Magazine",
+    "reloadLength": "2 beats",
+    "image": "",
+    "notes": "The Gattling Gun fires 2 shots over the first full beat, 4 shots per beat for 2 beats, and finally 8 shots per beat until you run out of ammo or let go."
+  },
+  {
+    "name": "Revolver",
+    "description": "A standard 6-shooter.",
+    "magazineSize": "6",
+    "fireMode": "Semi-automatic",
+    "firesOn": "1/2 beat",
+    "reloadType": "Single round",
+    "reloadLength": "1/2 beat",
+    "image": "",
+    "notes": ""
+  },
+  {
+    "name": "Automatic Shotgun",
+    "description": "An automatic shotgun.  Must be pumped after firing every shot.",
+    "magazineSize": "6",
+    "fireMode": "Automatic",
+    "firesOn": "Full beat",
+    "reloadType": "Magazine",
+    "reloadLength": "2 beats",
+    "image": "",
+    "notes": ""
+  },
+  {
+    "name": "Laser Pistol",
+    "description": "this gun requires 1 beat to charge before attacking.",
+    "magazineSize": "",
+    "fireMode": "Semi-automatic",
+    "firesOn": "Full beat",
+    "reloadType": "Single press",
+    "reloadLength": "",
+    "image": "",
+    "notes": ""
+  },
+  {
+    "name": "Grenade Launcher",
+    "description": "A grenade launcher with a drum mag, its shells explode and cause splash damage on contact with enemies or hard surfaces.",
+    "magazineSize": "",
+    "fireMode": "Automatic",
+    "firesOn": "",
+    "reloadType": "Single press",
+    "reloadLength": "2 full beats",
+    "image": "",
+    "notes": ""
+  }
+]
