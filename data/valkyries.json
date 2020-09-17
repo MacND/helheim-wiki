@@ -24,8 +24,8 @@
       "precision": "0",
       "ability": "0"
     },
-    "easyWinReward": "Fire Bolt", #Damage over time
-    "hardWinReward": "Jarnbjorn" #Explosive Orb
+    "easyWinReward": "Fire Bolt",
+    "hardWinReward": "Jarnbjorn"
   },
   {
     "name": "Freyr",
@@ -136,7 +136,7 @@
       "precision": "0",
       "ability": "0"
     },
-    "easyWinReward": "",
-    "hardWinReward": ""
+    "easyWinReward": "Teleport",
+    "hardWinReward": "Barter"
   }
 ]

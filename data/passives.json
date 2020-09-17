@@ -10,13 +10,8 @@
     "notes": "You now have infinite keys for the entire run.  These can be used for altar sacrifices."
   },
   {
-    "name": "Asp's Whisper",
-    "inGameDescription": "Shots slow enemies",
-    "notes": "Slow effect on enemies lasts for 2 beats."
-  },
-  {
     "name": "Lucky Dice",
     "inGameDescription": "A very lucky dice",
-    "notes": "Increases your luck stat by 6."
+    "notes": "Increases your luck stat by 4."
   }
 ]

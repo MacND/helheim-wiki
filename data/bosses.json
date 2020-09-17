@@ -2,7 +2,7 @@
   {
     "name": "Draugr",
     "description": "",
-    "floor": "",
+    "floor": "1-1",
     "attacks": [
       {
         "name": "Energy Blast",
@@ -21,5 +21,18 @@
         "description": "Attack the right, left, right, and left side of the screen on the 1st, 3rd, 5th, and 7th beat.  Dodgeable."
       }
     ]
-  }
+  },
+  {
+    "name": "Gullveig",
+    "description": "",
+    "floor": "2-1",
+    "attacks": []
+  },
+  {
+    "name": "Gullveig",
+    "description": "",
+    "floor": "2-1",
+    "attacks": []
+  },
+
 ]

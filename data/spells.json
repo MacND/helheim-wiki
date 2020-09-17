@@ -68,5 +68,12 @@
     "effect": "",
     "slot": "Ultimate",
     "cooldown": ""
+  },
+  {
+    "name": "Jarnborn",
+    "inGameDescription": "Explosive orb",
+    "effect": "High damage orb",
+    "slot": "Ultimate",
+    "cooldown": ""
   }
 ]

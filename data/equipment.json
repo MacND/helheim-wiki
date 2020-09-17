@@ -4,188 +4,209 @@
     "inGameDescription": "Increased damage with perfect rhythm",
     "notes": "",
     "slot": "head",
-    "source": ""
+    "image": ""
   },
   {  
     "name": "Powershot Glove",
     "inGameDescription": "Shots penetrate walls and enemies",
-    "notes": "",
+    "notes": "Shots will pass through Guardian shields with this item equipped.",
     "slot": "hands",
-    "source": ""
+    "image": ""
   },
   {  
     "name": "Richeous Sun",
     "inGameDescription": "Solar Flares",
     "notes": "",
     "slot": "shield",
-    "source": ""
+    "image": ""
   },
   {  
     "name": "Rhythmic Chaos Boots",
     "inGameDescription": "Strike to the beat",
     "notes": "",
     "slot": "feet",
-    "source": ""
+    "image": ""
   },
   {  
     "name": "Ymir's Crown",
     "inGameDescription": "Echoes your attacks",
     "notes": "Any weapon attack that lands will spawn an orb that automatically attacks the same target 1 beat later.",
     "slot": "head",
-    "source": ""
+    "image": ""
   },
   {  
     "name": "Spacewalker",
     "inGameDescription": "Take to flight",
     "notes": "You can now jump every half beat, allowing you to permanently stay airborne.",
     "slot": "hands",
-    "source": ""
+    "image": ""
   },
   {  
     "name": "Dragon Heart",
     "inGameDescription": "Health regeneration",
     "notes": "This item will regenerate 5 HP per beat for 5 beats after taking damage.",
     "slot": "shield",
-    "source": ""
+    "image": ""
   },
   {  
     "name": "Battle Lion",
     "inGameDescription": "Cooldown reduction",
     "notes": "",
     "slot": "shield",
-    "source": ""
+    "image": ""
   },
   {  
     "name": "Berserker's Arm",
     "inGameDescription": "Critical",
     "notes": "",
     "slot": "shield",
-    "source": ""
+    "image": ""
   },
   {  
     "name": "Gunnr's Bracer",
     "inGameDescription": "Increased healing effects",
     "notes": "",
     "slot": "hands",
-    "source": ""
+    "image": ""
   },
   {  
     "name": "Boots of Rock",
     "inGameDescription": "Explode on landing",
     "notes": "",
     "slot": "feet",
-    "source": ""
+    "image": ""
   },
   {  
     "name": "Storm",
     "inGameDescription": "Cleaving",
     "notes": "",
     "slot": "shield",
-    "source": ""
+    "image": ""
   },
   {  
     "name": "Hat of Madness",
     "inGameDescription": "Timed Explosives",
     "notes": "",
     "slot": "head",
-    "source": ""
+    "image": ""
   },
   {  
     "name": "Lion Heart",
     "inGameDescription": "One more life",
     "notes": "",
     "slot": "shield",
-    "source": ""
+    "image": ""
   },
   {  
     "name": "Skates of Strafe",
     "inGameDescription": "Speed multiplier",
     "notes": "",
     "slot": "feet",
-    "source": ""
+    "image": ""
   },
   {  
     "name": "Sigrdrifa's Bracer",
     "inGameDescription": "Penetrating Shots",
     "notes": "",
     "slot": "hands",
-    "source": ""
+    "image": ""
   },
   {  
     "name": "Tumbler's Boots",
     "inGameDescription": "Tumblr when firing",
     "notes": "",
     "slot": "feet",
-    "source": ""
+    "image": ""
   },
   {  
     "name": "Helm of Precision",
     "inGameDescription": "Critical Multiplier",
     "notes": "",
     "slot": "head",
-    "source": ""
+    "image": ""
   },
   {  
     "name": "Odin's Sneakers",
     "inGameDescription": "Speed up",
     "notes": "",
     "slot": "feet",
-    "source": "Huginn's Shop"
+    "image": "Huginn's Shop"
   },
   {  
     "name": "Spurs of Justice",
-    "inGameDescription": "Crts do damage over time",
+    "inGameDescription": "Crits do damage over time",
     "notes": "",
     "slot": "feet",
-    "source": ""
+    "image": ""
   },
   {  
     "name": "Midgard Bracelet",
     "inGameDescription": "+1 to every stat, +25 HP",
     "notes": "",
     "slot": "hands",
-    "source": ""
+    "image": ""
   },
   {  
     "name": "Face of Death",
     "inGameDescription": "Double Damage",
     "notes": "",
     "slot": "shield",
-    "source": ""
+    "image": ""
   },
   {  
     "name": "Tampling Boots",
     "inGameDescription": "Finishes off low health opponents",
-    "notes": "",
+    "notes": "Possible typo in-game, these may be Trampling Boots as I can find no definition of Tampling.",
     "slot": "feet",
-    "source": ""
+    "image": ""
   },
   {  
     "name": "Adventurer's Fedora",
     "inGameDescription": "Rotate ability slots",
     "notes": "This item allows you to rotate counter-clockwise the slot that your armour pieces take up, e.g. pressing 1 immediately after collection will move the head item to the shield slot, shield item to the feet slot, and so on, allowing you to equip 2 helmets, 2 pairs of boots etc.  Also rotates your Ultimate and Secondary spell slot.",
     "slot": "head",
-    "source": ""
+    "image": ""
   },
   {  
     "name": "Quarternote",
     "inGameDescription": "Double shots",
     "notes": "Fires twice as many bullets per beat, but does not use twice as much ammo.",
     "slot": "hands",
-    "source": ""
+    "image": ""
   },
   {  
     "name": "Skjalomeyjay's Plate",
     "inGameDescription": "Armour",
     "notes": "Reduces incoming damage so that you can't take over 25 HP of damage in a single attack.",
     "slot": "shield",
-    "source": ""
+    "image": ""
   },
   {  
     "name": "Circlet of the Serpentine",
     "inGameDescription": "Vamp health on damage",
-    "notes": "Successful weapon attacks heal you.",
+    "notes": "Successful weapon attacks heal you for 1 HP.",
     "slot": "head",
-    "source": ""
+    "image": ""
+  },
+  {  
+    "name": "Loki's Bargain",
+    "inGameDescription": "Sacrifice slot for stats",
+    "notes": "+1 to all stats.",
+    "slot": "hands",
+    "image": ""
+  },
+  {
+    "name": "Asp's Whisper",
+    "inGameDescription": "Shots slow enemies",
+    "notes": "Slow effect on enemies lasts for 2 beats.",
+    "slot": "hands",
+    "image": ""
+  },
+  {
+    "name": "Seiar's Hat",
+    "inGameDescription": "Mind flay",
+    "notes": "",
+    "slot": "head",
+    "image": ""
   }
 ]
