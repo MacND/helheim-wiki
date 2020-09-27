@@ -2,7 +2,7 @@
 title: Home
 description: Helheim.wiki Home
 published: true
-date: 2020-09-26T21:57:17.162Z
+date: 2020-09-27T13:35:31.830Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-26T19:22:45.352Z
@@ -18,13 +18,13 @@ This site is a wiki, so everyone is encouraged to create and edit articles. If y
 
 ## Codex
 - [Abilities](/Abilities)
+- [Altars](/Altars)
+- [Bosses](/Bosses)
 - [Challenges](/Challenges)
-- [Characters](/Characters)
 - [Enemies](/Enemies)
+- [Equipment](/Equipment)
 - [Items](/Items)
-- [Modifiers](/Modifiers)
-- [Rooms](/Rooms)
-- [Shrines](/Shrines)
 - [Stats](/Stats)
+- [Valkyries](/Valkyries)
 - [Weapons](/Weapons)
-- [Zones](/Zones)
+- [Zones & Rooms](/Zones-Rooms)
