@@ -2,7 +2,7 @@
 title: Valkyries
 description: The game's playable characters.
 published: true
-date: 2020-09-27T13:59:54.983Z
+date: 2020-09-27T14:20:48.576Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-27T13:48:23.099Z
@@ -14,6 +14,7 @@ There are currently five playable characters (called Valkyries), each with uniqu
 ## Goll (Göll)
 Goll is the first character available to play in BPM.
 
+| | |
 | --- | --- |
 | HP | 100 |
 | Armour | 0 |
@@ -25,6 +26,8 @@ Goll is the first character available to play in BPM.
 
 ## Freyr
 Freyr is the second playable character in BPM.  He can be unlocked by completing [Asgard](/Zones#Asgard).  Freyr's starting health is made up entirely of Shield, but you can collect Health Up potions to increase his Health from 0.
+
+| | |
 | --- | --- |
 | HP | 0 |
 | Armour | 150 |
@@ -36,6 +39,8 @@ Freyr is the second playable character in BPM.  He can be unlocked by completing
 
 ## Hildr
 Hildr is the third playable character in BPM.  She can be unlocked by completing [Svartalfheim](/Zones#Svartalfheim).
+
+| | |
 | --- | --- |
 | HP | 50 |
 | Armour | 25 |
@@ -47,6 +52,8 @@ Hildr is the third playable character in BPM.  She can be unlocked by completing
 
 ## Njord
 Njord is the fourth playable character in BPM.  He can be unlocked by defeating [Nidhogg](/Bosses#Nidhogg).  Njord cannot pick up any weapons in game, using only his magic hands for combat.
+
+| | |
 | --- | --- |
 | HP | 50 |
 | Armour | 0 |
@@ -58,6 +65,8 @@ Njord is the fourth playable character in BPM.  He can be unlocked by defeating 
 
 ## Odr
 Odr is the fifth and final playable character in BPM.  He can be unlocked by defeating [Nidhogg](/Bosses#Nidhogg) on Hard.  Odr cannot pick up Armour or Health Up potions, and wil die in a single hit.  The only way to avoid dying when hit is to have the Lion Heart equipped, or to use Valkyrie's Veil, Block, or Undying Strength.
+
+| | |
 | --- | --- |
 | HP | 0 |
 | Armour | 0 |
