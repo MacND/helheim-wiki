@@ -2,7 +2,7 @@
 title: Valkyries
 description: The game's playable characters.
 published: true
-date: 2020-09-27T13:48:23.099Z
+date: 2020-09-27T13:59:54.983Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-27T13:48:23.099Z
