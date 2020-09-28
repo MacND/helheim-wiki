@@ -2,9 +2,9 @@
 title: Abilities
 description: Secondary and Ultimate abilities.
 published: true
-date: 2020-09-27T13:29:12.068Z
+date: 2020-09-27T13:29:16.427Z
 tags: 
-editor: markdown
+editor: undefined
 dateCreated: 2020-09-26T22:42:38.262Z
 ---
 
